@@ -9,7 +9,7 @@ public class Main {
         int n = 0;
 int Length = 0;
          int valueint = 0;
-         String hexadecimal = null;
+         String hexadecimal = null; // this means that hexadecimal is assigned no value at all
          char value;
          int Length1 = 0;
 
